@@ -2,8 +2,9 @@
 IMG_*.JPG
 IMG_*.jpg
 
-# Claude Code shaxsiy sozlamalari
+# Claude Code shaxsiy sozlamalari va qo'llanmasi
 .claude/settings.local.json
+CLAUDE.md
 
 # OS fayllari
 Thumbs.db
