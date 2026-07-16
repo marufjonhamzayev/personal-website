@@ -1,0 +1,11 @@
+# Saytda ishlatilmaydigan original rasmlar
+IMG_*.JPG
+IMG_*.jpg
+
+# Claude Code shaxsiy sozlamalari
+.claude/settings.local.json
+
+# OS fayllari
+Thumbs.db
+desktop.ini
+.DS_Store
