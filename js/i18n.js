@@ -12,7 +12,7 @@ const translations = {
     },
     hero: {
       eyebrow: "Salom, men",
-      name: "Marufjon Hamzayev",
+      name: "sayt buzilib qoldi",
       tagline: "Marketolog va Vibecoder — marketing strategiyasi va sun'iy intellekt yordamida ijodni birlashtiruvchi mutaxassis.",
       bio: "Men brendlar yaratishga ishtiyoqli marketolog va sun'iy intellekt yordamida veb-saytlar/ilovalar yaratishni o'rganayotgan boshlang'ich darajadagi vibecoder'man. Bu — mening shaxsiy veb-sahifam, bu yerda ishlarim va g'oyalarimni ulashaman.",
       ctaProjects: "Loyihalarim",
@@ -68,7 +68,7 @@ const translations = {
     },
     hero: {
       eyebrow: "Hi, I'm",
-      name: "Marufjon Hamzayev",
+      name: "sayt buzilib qoldi",
       tagline: "Marketer & Vibecoder — blending marketing strategy with AI-assisted creativity.",
       bio: "I'm a marketer passionate about building brands, and a beginner-level vibecoder learning to build digital products with the help of AI tools. This is my personal corner of the web, where I share my work and ideas.",
       ctaProjects: "My Projects",
