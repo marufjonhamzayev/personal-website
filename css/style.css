@@ -181,6 +181,7 @@ a { color: inherit; text-decoration: none; }
 
 .social-icons {
   display: flex;
+  flex-wrap: wrap;
   gap: 0.9rem;
 }
 .social-icons a {
@@ -477,4 +478,18 @@ a { color: inherit; text-decoration: none; }
   .section { padding: 3.5rem 0; }
   .grid-2, .grid-3 { grid-template-columns: 1fr; }
   .lang-toggle { order: -1; }
+
+  /* Aloqa tugmalari telefon ekraniga yonma-yon sig'maydi
+     (uchtasi ~534px, ekran esa ~342px) — ustma-ust joylashtiramiz. */
+  .social-icons--contact {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.75rem;
+    max-width: 320px;
+    margin-inline: auto;
+  }
+  .social-link {
+    justify-content: center;
+    padding: 0.9rem 1rem;
+  }
 }
