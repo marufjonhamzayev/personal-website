@@ -1,0 +1,12 @@
+# Netlify sozlamasi — sof HTML/CSS/JS, build kerak emas.
+# main shoxiga har push bo'lganda Netlify saytni o'zi yangilaydi.
+[build]
+  publish = "."
+  command = ""
+
+# Repo xizmat fayllari saytda ochilmasin
+[[redirects]]
+  from = "/README.md"
+  to = "/"
+  status = 301
+  force = true

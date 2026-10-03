@@ -2,7 +2,11 @@
 
 Marketolog va vibecoder Marufjon Hamzayevning shaxsiy veb-sahifasi.
 
-**Jonli sayt:** https://marufjonhamzayev.github.io/personal-website
+**Jonli sayt:** https://marufjonhamzayev.netlify.app
+
+Sayt Netlify'ning bepul tarifida joylashgan. `main` shoxiga har push bo'lganda Netlify uni o'zi yangilaydi, sozlamasi — `netlify.toml`.
+
+> Avval sayt `musama.uz` da turardi. Bu domen endi **Musama** mahsulotiga tegishli, shaxsiy sayt alohida domen olinguncha Netlify'da turadi.
 
 ## Imkoniyatlari
 
@@ -26,4 +30,5 @@ css/style.css     — uslublar
 js/i18n.js        — tarjimalar
 js/main.js        — interaktivlik
 assets/           — rasmlar va favicon
+netlify.toml      — Netlify joylashtirish sozlamasi
 ```
